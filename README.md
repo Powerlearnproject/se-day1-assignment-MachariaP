@@ -231,7 +231,7 @@ Effective prompt engineering is crucial for several reasons:
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague Prompt:
-"Tell me about dogs."
+"Tell me about dogs"
 This prompt is vague because it doesn't specify what kind of information the user is seeking. There are countless aspects of dogs that could be discussed.
 
 Improved Prompt:
